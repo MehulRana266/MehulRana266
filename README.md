@@ -14,9 +14,26 @@
 - Oracle SQL
 - Git & GitHub
 
+## Tools
+- Git
+- GitHub
+- Visual Studio Code
+- Visual Studio
+- Canva
+- Figma
+
 ## Goals
 - Build real-world full stack projects
 - Contribute to open source
 - Become a Full Stack Developer
 
-📫 Reach me: mehulrana026.com
+🌐 Connect With Me
+GitHub: https://github.com/MehulRana266
+LinkedIn:
+Gmail: mehulrana026@gmail.com
+
+💡 Quote
+
+"Keep Learning, Keep Building, Keep Growing."
+
+⭐ Thanks for visiting my profile!
