@@ -29,7 +29,7 @@
 
 🌐 Connect With Me
 GitHub: https://github.com/MehulRana266
-LinkedIn: in/mehul-rana- 
+LinkedIn: www.linkedin.com/in/mehul-rana-
 Gmail: mehulrana026@gmail.com
 
 💡 Quote
